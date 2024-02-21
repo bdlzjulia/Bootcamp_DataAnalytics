@@ -5,7 +5,7 @@ Janeiro - Julho 2024
 
 ## Cronograma de Conteúdo do Curso
 
-**Semana 1:** Boas vindas
+- **Semana 1:** Boas vindas
 **Semana 2:** Onboarding
 **Semana 3:** Mercado de Dados
 **Semana 4:** Métodos Ágeis
