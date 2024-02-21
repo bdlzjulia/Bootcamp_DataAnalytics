@@ -5,7 +5,7 @@ O Bootcamp Data Analtytics é uma formação afirmativa para mulheres cisgênero
 Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de carreira para apoiar a formação profissional das participantes e ajudá-las na empregabilidade no mercado tech. A WoMakersCode é responsável pelo processo de contato, seleção, acompanhamento e implantação do Bootcamp Data Analytics.
 
 <h1 align="center">
-  <img src="./assets/data.png" />
+  <img src="./assets/data.png" height="42" width="42"/>
   <img src="./assets/github-sign.png" />
   <img src="./assets/sql-server.png" />
   <img src="./assets/google-sheets.png" />
