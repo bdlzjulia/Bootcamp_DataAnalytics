@@ -1,5 +1,11 @@
 # Bootcamp Data Analytics
 
+O Bootcamp Data Analtytics é uma formação afirmativa para mulheres cisgênero e transgênero que será oferecido de forma 100% online e gratuita, em parceria com Potência Tech iFood e S&P Global Foundation, visando acelerar a empregabilidade de 200 mulheres na área de dados e apoiá-las na conexão com mercado de trabalho.
+
+Serão 27 semanas (6,5 meses) de formação técnica e mentoria de carreira para apoiar a formação profissional das participantes e ajudá-las na empregabilidade no mercado tech. A WoMakersCode é responsável pelo processo de contato, seleção, acompanhamento e implantação do Bootcamp Data Analytics.
+
+Para conhecer mais sobre a WoMakersCode acesse: [womakerscode.org] (#womakerscode.org)
+
 Janeiro - Julho 2024
 
 
