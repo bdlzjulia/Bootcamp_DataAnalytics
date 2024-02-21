@@ -6,9 +6,9 @@ Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de
 
 <h1 align="center">
   <img src="./assets/data.png" height="55" width="55"/>
-  <img src="./assets/github-sign.png" height="55" width="55"/>
-  <img src="./assets/sql-server.png" height="55" width="55"/>
-  <img src="./assets/google-sheets.png" height="55" width="55"/>
+  <img src="./assets/github.png" height="55" width="55"/>
+  <img src="./assets/database.png" height="55" width="55"/>
+  <img src="./assets/sheets.png" height="55" width="55"/>
   <img src="./assets/python.png" height="55" width="55"/>
   <img src="./assets/cloud-computing.png" height="55" width="55"/>
 </h1>
