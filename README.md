@@ -20,9 +20,18 @@ Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de
 - **Semana 2:** Onboarding
 - **Semana 3:** Mercado de Dados
 - **Semana 4:** Métodos Ágeis
+    - Cultura Ágil
+    - SCRUM
+    - Kanban
 - **Semana 5:** Git e GitHub
 - **Semana 6:** Python para Dados
+    - Numpy
+    - Pandas
+    - Data Wrangling
+    - Sklearn Pipelines
+    - ETL
 - **Semana 7:** Banco de Dados SQL
+    - SQLite
 - **Semana 8:** Estatística com Python parte 1: Frequências e Medidas
 - **Semana 9:** Estatística com Python parte 2: Probabilidade e Amostragem
 - **Semana 10:** Estatística com Python parte 3: Testes de hipóteses
