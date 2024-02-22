@@ -30,9 +30,10 @@ Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de
     - Data Wrangling
     - Sklearn Pipelines
     - ETL
-    - [Desafio Final Python para Dados](https://github.com/bdlzjulia/desafio_pandas_numpy/blob/main/Python_para_Dados_Desafio_Final.ipynb) 
+    - [Desafio Final - Python para Dados](https://github.com/bdlzjulia/desafio_pandas_numpy/blob/main/Python_para_Dados_Desafio_Final.ipynb) 
 - **Semana 7:** Banco de Dados SQL
     - SQLite
+    - [Desafio SQLite](https://github.com/bdlzjulia/desafio_sqlite/blob/main/desafio-sql/desafio.py)
 - **Semana 8:** Estatística com Python parte 1: Frequências e Medidas
 - **Semana 9:** Estatística com Python parte 2: Probabilidade e Amostragem
 - **Semana 10:** Estatística com Python parte 3: Testes de hipóteses
