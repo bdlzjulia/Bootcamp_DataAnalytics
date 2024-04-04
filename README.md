@@ -41,7 +41,7 @@ Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de
     - [Desafio Frequências e Medidas](https://github.com/bdlzjulia/desafio_frequencias_medidas/blob/main/Estatistica_Frequencias_Medidas_DesafioFinal.ipynb)
 - **Semana 9:** Estatística com Python parte 2: Probabilidade e Amostragem
     - Dependência e Independência
-    - Distribuições de probabilidade: Discrestas e Contínuas
+    - Distribuições de probabilidade: Discretas e Contínuas
     - Análise de demanda e estoque
     - Teste A/B 
     - [Desafio Probabilidade e Amostragem](https://github.com/bdlzjulia/desafio_probabilidade_amostragem/blob/main/Probabilidade_Amostragem_exercicios.ipynb) 
