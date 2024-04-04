@@ -35,6 +35,10 @@ Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de
     - SQLite
     - [Desafio SQLite](https://github.com/bdlzjulia/desafio_sqlite/tree/main)
 - **Semana 8:** Estatística com Python parte 1: Frequências e Medidas
+    - Análise de dispersão e outliers
+    - Variáveis númericas vs Categóricas
+    - Seaborn, Matplotlib e Scipy
+    - [Desafio Frequências e Medidas](https://github.com/bdlzjulia/desafio_frequencias_medidas/blob/main/Estatistica_Frequencias_Medidas_DesafioFinal.ipynb)
 - **Semana 9:** Estatística com Python parte 2: Probabilidade e Amostragem
 - **Semana 10:** Estatística com Python parte 3: Testes de hipóteses
 - **Semana 11:** Estatística com Python parte 4: Correlação e Regressão
