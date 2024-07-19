@@ -46,9 +46,26 @@ Serão 27 semanas (Janeiro - Julho de 2024) de formação técnica e mentoria de
     - Teste A/B 
     - [Desafio Probabilidade e Amostragem](https://github.com/bdlzjulia/desafio_probabilidade_amostragem/blob/main/Probabilidade_Amostragem_exercicios.ipynb) 
 - **Semana 10:** Estatística com Python parte 3: Testes de hipóteses
+    - Tipos de testes paramétricos
+    - Testes não paramétricos
+    - Testes anova qui-quadrado
+    - Intervalos de confiança
+    - [Desafio Testes de hipóteses](https://github.com/bdlzjulia/desafio_teste_hipotese/blob/main/testes_hipotese_individual.ipynb)
 - **Semana 11:** Estatística com Python parte 4: Correlação e Regressão
+    - Conceitos de correlação
+    - Modelos de regressão
+    - [Desafio Correlação e Regressão](https://github.com/bdlzjulia/desafio_correlacao_regressao/blob/main/correlacao_regressao_desafio_individual.ipynb)
 - **Semana 12:** Regressão Logística: Modelos de Classificação
+    - Introdução a Modelos de classificação
+    - Introdução a Regressão Logística
+    - Métricas de performance
+    - [Desafio Modelos de Classificação](https://github.com/bdlzjulia/desafio_modelo_classificacao/blob/main/individual_classificacao_regressao_logistica.ipynb)
 - **Semana 13:** Data Visualization: criando gráficos com bibliotecas Python
+    - Matplotlib
+    - Seaborn
+    - Plotly
+    - Series temporais
+    - [Desafio Data Visualization](https://github.com/bdlzjulia/desafio_data_viz/blob/main/data_viz_individual.ipynb)
 - **Semana 14:** Data Analysis com Google Sheets
 - **Semana 15:** Power BI
 - **Semana 16:** Computação em Nuvem
